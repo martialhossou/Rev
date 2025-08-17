@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Révision GCB – Site à part (exercice par exercice)</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">📚 Révisions GCB – Mode Exercice</div>
+    <div class="meta">
+      <span id="badgeProgress">Exercice 0/0</span>
+      <span id="badgeScore">Score: 0</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="panel">
+      <div class="row">
+        <select id="exerciseSelect" aria-label="Choisir l'exercice"></select>
+        <button id="btnStart">Commencer</button>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div id="stage"></div>
+    </section>
+
+    <section class="panel actions">
+      <button id="btnPrev">⟵ Précédent</button>
+      <button id="btnCheck">Vérifier mes réponses</button>
+      <button id="btnNext">Suivant ⟶</button>
+    </section>
+
+    <section class="panel">
+      <details>
+        <summary>📎 Références (PDF)</summary>
+        <ul id="refsList"></ul>
+      </details>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <small>Fait pour un déploiement GitHub Pages. JSON et fichiers à la racine du repo.</small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

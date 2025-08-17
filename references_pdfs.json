@@ -1,0 +1,64 @@
+{
+  "pdfs": [
+    {
+      "nom": "TD N°1.docx.pdf",
+      "path": "./pdfs/TD N°1.docx.pdf"
+    },
+    {
+      "nom": "TD N°2.pdf",
+      "path": "./pdfs/TD N°2.pdf"
+    },
+    {
+      "nom": "TD N°3.docx.pdf",
+      "path": "./pdfs/TD N°3.docx.pdf"
+    },
+    {
+      "nom": "TD N°4.docx.pdf",
+      "path": "./pdfs/TD N°4.docx.pdf"
+    },
+    {
+      "nom": "TD N°5.docx.pdf",
+      "path": "./pdfs/TD N°5.docx.pdf"
+    },
+    {
+      "nom": "TD N°6.docx.pdf",
+      "path": "./pdfs/TD N°6.docx.pdf"
+    },
+    {
+      "nom": "TD N°7.docx.pdf",
+      "path": "./pdfs/TD N°7.docx.pdf"
+    },
+    {
+      "nom": "Exercice.pdf",
+      "path": "./pdfs/Exercice.pdf"
+    },
+    {
+      "nom": "document_16.pdf",
+      "path": "./pdfs/document_16.pdf"
+    },
+    {
+      "nom": "Épreuves IRGIB-Africa.pdf",
+      "path": "./pdfs/Épreuves IRGIB-Africa.pdf"
+    },
+    {
+      "nom": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+      "path": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf"
+    },
+    {
+      "nom": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+      "path": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf"
+    },
+    {
+      "nom": "EXAMEN BLANC GIGQ 2023.pdf",
+      "path": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf"
+    },
+    {
+      "nom": "EXAMEN BLANC GCB 2023.pdf",
+      "path": "./pdfs/EXAMEN BLANC GCB 2023.pdf"
+    },
+    {
+      "nom": "EXAMEN BLANC GCB 2023 2.pdf",
+      "path": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf"
+    }
+  ]
+}

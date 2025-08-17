@@ -1,0 +1,3213 @@
+{
+  "subjects": [
+    {
+      "name": "Banque complète – Révision GCB",
+      "sections": [
+        {
+          "name": "TD N°1",
+          "questions": [
+            {
+              "type": "mcq",
+              "prompt": "I.1) Soit l’atome ⁵⁹₂₈Ni ; quelle proposition est correcte ?",
+              "choices": [
+                "28 p+, 28 n, 31 e−",
+                "28 p+, 31 n, 28 e−",
+                "59 p+, 28 n, 59 e−",
+                "28 p+, 31 n, 31 e−",
+                "59 p+, 28 n, 31 e−"
+              ],
+              "answer": 1,
+              "explain": "Nombre atomique Z=28 ⇒ 28 protons et (atome neutre) 28 électrons. Nombre de masse A=59 ⇒ neutrons N=A−Z=31.",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "I.2) Isotopes du chlore ³⁵Cl et ³⁷Cl : assertion vraie ?",
+              "choices": [
+                "³⁵Cl a 17 protons",
+                "³⁵Cl a 35 neutrons",
+                "Les deux ont le même nombre de neutrons",
+                "Ils ont le même A",
+                "Ils n’ont pas les mêmes propriétés chimiques"
+              ],
+              "answer": 0,
+              "explain": "Isotopes → même Z=17 (mêmes propriétés chimiques). Neutrons: ³⁵Cl→18 ; ³⁷Cl→20.",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "I.3) Abondances ³⁵Cl=75%, ³⁷Cl=25% : masse atomique du Cl ?",
+              "choices": [
+                "29",
+                "37",
+                "35,5",
+                "39",
+                "36,5"
+              ],
+              "answer": 2,
+              "explain": "M=0,75×35 + 0,25×37 = 35,5 u.",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "I.4) Nombres quantiques : laquelle est correcte ?",
+              "choices": [
+                "n définit la couche",
+                "l est magnétique",
+                "s définit la forme de l’orbitale",
+                "Pour H, l’énergie dépend de m",
+                "Pour les atomes polyélectroniques, l’énergie ne dépend que de n"
+              ],
+              "answer": 0,
+              "explain": "n (principal) ⇒ couche/énergie ; l (azimutal) ⇒ forme ; m (magnétique) ⇒ orientation ; s ⇒ spin.",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "II.1) Brønsted : donner les lettres vraies (a–e).",
+              "answer_text": "ac",
+              "explain": "(a) Vrai : acide = donneur de H⁺ ; (c) Vrai : plus l’acide est fort, plus sa base conjuguée est faible. Rappels : pKa+pKb=14 (25 °C).",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "II.2) HCl 0,10 M : 5,0 mL → 250 mL. Lettres vraies (a–e).",
+              "answer_text": "b",
+              "explain": "Dilution C₂ = C₁·V₁/V₂ = 0,10×5/250 = 2,0×10⁻³ M ; solution acide faible ⇒ pH ≈ −logC ≈ 2,70.",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "II.3) Ka/Kb : lettres vraies (a–e).",
+              "answer_text": "ad",
+              "explain": "Ka grand ⇒ acide fort (a). pKa grand ⇒ acide faible ⇒ sa base conjuguée forte ? Non, inversement : plus pKa est grand, plus Kb de la base conjuguée est petit (d).",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "II.4) pKa acide acétique=4,8 : lettres vraies (a–e).",
+              "answer_text": "b",
+              "explain": "À concentration modérée, acide acétique (pKa 4,8) est partiellement dissocié ; la dilution accroît la dissociation mais ne la rend pas totale.",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "II.5) KOH 0,050 M, 10 mL → 500 mL. Lettres vraies (a–e).",
+              "answer_text": "d",
+              "explain": "Après dilution : C=0,050×10/500=1,0×10⁻³ M ; base forte ⇒ pH=14+logC=11,0.",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "III.1) Oses : lettres vraies (a–e).",
+              "answer_text": "c",
+              "explain": "La classification principale se fait par le nombre de C : triose, tétrose, pentose, hexose, etc.",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "III.7) Acides gras saturés : associer C4/C14/C16/C18/C24.",
+              "answer_text": "(1)C4,(2)C14,(3)C16,(4)C18,(5)C24",
+              "explain": "Butyrique C4; myristique C14; palmitique C16; stéarique C18; lignocérique C24.",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "III.8) Nucléotide : lettres vraies (a–e).",
+              "answer_text": "d",
+              "explain": "ATP est un nucléotide énergétique ; cAMP = messager ; les P sont minéraux ; rôle structural via ADN/ARN.",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "III.10) Nucléotides : lettres vraies (a–e).",
+              "answer_text": "bcd",
+              "explain": "Nucléotide = nucléoside + phosphate(s). Thymidine = désoxyribonucléoside. ATP = nucléotide tri-phosphate.",
+              "ref": {
+                "epreuve": "TD N°1",
+                "fichier": "./pdfs/TD N°1.docx.pdf"
+              }
+            }
+          ]
+        },
+        {
+          "name": "TD N°2",
+          "questions": [
+            {
+              "type": "short",
+              "prompt": "1. Parmi ces indicateurs colorés, lequel pe ut être utilisé pour détecter l’équivalence ? \n a. Hélianthine, zone de virage 3,1 – 4,4. \n b. n'importe quel indicateur acide -base convient. \n c. Phénolphtaléine, zone de virage 8,3 – 10,0. \n d. Permanganate de potassium \n e. aucun indicateur n'est nécessaire.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Le pH de la solution à l’équivalence est : \n a. Inférieur à 7 \n b. Supérieur à 10 \n c. Entre 8 et 10 \n d. Egal à 7 \n e. Egal au pka",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Parmi les affirmations suivantes, lesquelles sont correctes ? \n a. Une oxydation est un gain d’électron. \n b. Une réduction est une perte d’électron. \n c. Un oxydant est une espèce susceptible de gagner des électrons. \n d. Un réducteur est une espèce susceptible de gagner des électrons. \n e. L’oxydation correspond à une diminution du nombre d’oxydation.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. Parmi les couples suivants, lesquels sont des couples redox ? \n a. \n \n b. \n c. \n d. \n e.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Parmi les espèces suivantes du chlore, lequel a un nombre d’oxydation égal à + VII . \n a. Cl 2. \n b. Cl–.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1. Parmi les structures électroniques suivantes dites celle qui correspond au cuivre : \n a. 1s2 2s2 2p6 3s2 3p6 4s0 3d9 \n b. 1s2 2s2 2p6 3s2 3p6 4s1 3d10 \n c. 1s2 2s2 2p6 3s2 3p6 4s1 3d8 \n d. 1s2 2s2 2p6 3s2 3p6 4s4 3d4 \n e. 1s2 2s2 2p6 3s2 3p6 4s2 3d6",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. L’isotope de masse atomique 62,929 se compose de : \n a. 29 protons, 34 électrons, 29 neutrons \n b. 34 protons, 34 électrons, 29 neutrons \n c. 29 protons , 29 électrons , 34 neutrons \n d. 34 protons, 29 électrons, 34 neutrons \n e. 29 protons, 34 électrons, 34 neutrons",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. L’isotope de masse atomique 64,927 se compose de : \n a. 29 protons, 36 électrons, 29 neutrons \n b. 29 pro tons, 29 électrons, 36 neutrons \n c. 36 protons , 36 électrons , 29 neutrons \n d. 36 protons, 29 électrons, 36 neutrons \n e. 29 protons, 36 électrons, 36 neutrons",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. La masse molaire du mélange isotopique naturel du cuivre est de 63,540 . Soit X 1 et X 2 les \nabondances respectives des isotopes 62,929 et 64,927 du cuivre. \n a. X 1 = 69,42 et X 2 = 30,58 \n b. X 1 = 59,42 et X 2 = 40,58 \n c. X1 = 30,42 et X 2 = 69,58 \n d. X1 = 25,42 et X 2 = 74,58 \n e. X1 = 75,42 et X 2 = 24,58",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Le cuivre appartient à la famille des : \n a. gaz rares \n b. alcalino -terreux \n c. halogènes \n d. alcalins \n e. métaux de transition \n \nIII-",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1. Le glycéraldéhyde \n a. possède 3 carbones asymétriques",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. La molécule suivante : \n \nCorrespond au : \n a. αD glucopyranisyl (1 -4) αD glucopyranose \n b. βD galactopyranosyl (1 -4) αD glucopyranose \n c. αD glucopyranosyl (1 -2) βD fructofuranoside \n d. βD glucopyranosyl (1 -4) αD glucopyranose \n e. αD glucopyranosyl (1 -6) αD glucopyranose",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Un diholoside \n- ne réduit pas la liqueur de Felhing \n- après méthylation suivie d’hydrolyse, permet d’identifier par chromatographie un 2 -3-4-6 \ntétraméthylglucose et un 1 -3-4-6 tétraméthylfructose \n- est hydrolysé par une β fructosidase et une α glucosidase. \nCe diholoside est le : \n a. maltose \n b. sacchar ose \n c. lactose \n d. cellobiose \n e. trehalose",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. Les peptides \n a. résultent de l’union d’acides aminés liés entre eux par une liaison osidique \n b. résultent de l’union d’acides aminés liés entre eux par la liaison peptidique \n c. peuvent comporter 200 acides aminés \n d. peuvent comporter 1 acide aminé \n e. présentent 2 extrémités dites N terminale",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Concernant la classification des acides aminés \n a. la glycine est ramifiée \n b. l’acide glutamique est aromatique \n c. la cystéine comporte du soufre \n d. l’acide aspartique porte une fonction acide \n e. la sérine porte plusieurs fonction s alcool",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "6. Les protéines \n a. Absorbent dans les UV à 220 nm par les radicaux benzéniques \n b. Absorbent dans les UV à 280 nm par les radicaux benzéniques \n c. N’absorbent pas dans les UV à 220 nm par les liaisons peptidiques \n d. Absorbent dans les UV à 280 nm par les liaisons peptidiques \n e. N’absorbent pas dans les UV à 280 ou 260 nm",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "7. Les acides gras \n a. sont tous solubles dans l’eau \n b. peuvent former du savon en donnant des sels de métaux lourds \n c. saturés, après hydrogénation, forment des margarines \n d. ont de nombreuses propriétés chimiques liés à la chaîne aliphatique \n e. ont de nombreuses propr iétés chimiques liés à leur fonction acide",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "8. Les acides gras \n a. possèdent une fonction acide \n b. sont tous saturés \n c. sont tous insaturés \n d. n’ont jamais de structure cyclique \n e. ont le plus souvent un nombre impair de carbone",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "9. L’acide arachidonique \n a. est un acide gras monoéthylénique \n b. n’est pas essentiel \n c. est un précurseur dans la biosynthèse des prostaglandines \n d. présente une configuration trans pour les doubles liaisons \n e. possède en tout 2 4 carbones",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "10. L’ARN \na. ne présente ni structure secondaire ni structure tertiaire puisque la molécule est \nmonocaténaire \nb. absorbe dans les UV à 2 00 nm \nc. est plus délicat à manipuler que l’ADN \nd. est très soluble dans l’eau pure \ne. contient les mêmes bases puriqu es que l’ADN",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "11. Une molécule ARNt \n a. vectorise un acide aminé par fixation de celui -ci au niveau de l’anti -codon \n b. comporte de la thymine \n c. est spécifique d e plusieurs acides aminé s \n d. se fixe sur l’ARNm par son site codon \n e. a la forme d’une feuille de trèfle en représentation tridimensionnelle",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "12. Quelle vitamine est précurseur du coenzyme A ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "a. acide folique \n b. acide pantothénique \n c. cobalamine \n d. riboflavine \n e. nicotamide",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°2.pdf",
+                "fichier": "./pdfs/TD N°2.pdf",
+                "page": 5
+              }
+            }
+          ]
+        },
+        {
+          "name": "TD N°3.docx",
+          "questions": [
+            {
+              "type": "short",
+              "prompt": "1. Parmi les structures électroniques suivantes dites celle qui correspond à l’iode : \n a. 1s2 2s2 2p6 3s2 3p6 4s0 3d9 \n b. 1s2 2s2 2p6 3s2 3p6 4s1 3d10 \n c. 1s2 2s2 2p6 3s2 3p6 4s1 3d8 \n d. 1s2 2s2 2p6 3s2 3p6 4s2 3d104p6 5s2 4d10 5p5 \n e. 1s2 2s2 2p6 3s2 3p6 4s2 3d6",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. L’isotope de masse atomique 124,905 se compose de : \n a. 53 protons, 72 électrons, 53 neutrons \n b. 72 protons, 72 électrons, 53 neutrons \n c. 53 protons , 53 électrons , 72 neutrons \n d. 72 protons, 53 électrons, 72 neutrons \n e. 53 protons, 72 électrons, 53 neutrons",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. L’isotope de masse atomique 128,905 se compose de : \n a. 53 protons, 76 électrons, 53 neutrons \n b. 53 protons, 53 électrons, 76 neutrons \n c. 76 protons , 76 électrons , 53 neutrons \n d. 76 protons, 53 électrons, 76 neutrons \n e. 76 protons, 53 électrons, 76 neutrons",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. La masse molaire du mélange isotopique naturel de l’iode est de 126,904. Soit X et Y les \nabondances respectives des isotopes 124,905 et 128,905 de l’iode : \n a. X = 69,42 et Y = 30,58 \n b. X = 59,03 et Y = 40,97 \n c. X = 30,42 et Y = 69,58 \n d. X = 45,97 et Y = 54,03 \n e. X = 50,03 et Y = 49,97",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. L’iode appartient à la famille des : \n a. gaz rares \n b. alcalino -terreux \n c. halogènes \n d. alcalins \n e. métaux de transition \n \nII- \n Lors de la réception d ’une commande de réactifs de laboratoire, il a été demandé au \ntechnicien de contrôler la qualité du lugol (solution d’iode) amené par le fournisseur. Celui -ci",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1. Parmi les techniques citées ci -dessous, laquelle est mise en jeu dans le titrage que veut \nréaliser le technicien : \n a. acido -basique \n b. précipitation \n c. oxydoréduction \n d. complexométrie \n e. potentiométrie",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Parmi les indicateurs colorés cités ci -dessous lequel est utilisé pour réaliser la manipulation : \n a. Phénolphtaléine \n b. Empois d’amidon \n c. Vert de bromocrésol \n d. Hélianthine \n e. Aucun indicateur \nAvant de commencer le titrage , il dilue la solution de lugol fournie en prélevant 50mL de cette \nsolution dans une fiole de 500mL qu’il complète jusqu’au trait de jauge avec de l’eau distillée.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Parmi les réponses ci -dessous dites quel est le taux de dilution appliqué au cours de cette \ndilution : \n a. 1/50 \n b. 1/100 \n c. 1/25 \n d. 1/10 \n e. 1/2 \n 4. Parmi les verreries ci-dessous lesquelles sont util isées pour réaliser le titrage : \n a. fiole jaugée, éprouvette graduée, erlenmeyer, verre à pied \n b. Burette graduée, éprouvette graduée, erlenmeyer, verre à pied \n c. Burette graduée, pipette graduée, fiole jaugée, ballon à fond plat \n d. Pip ette graduée, béchers gradués, ballon à fond rond, cristallisoir \n e. Burette graduée, béchers gradués ou erlenmeyers, pipette graduée \nIl prélève ensuite 15 mL de la solution diluée à l’aide d’une pipette pour réaliser le dosage. A \nla fin de la réalisat ion des trois essais de sa manipulation le technicien obtient un volume moyen \nde 6mL.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. La concentration initial Ci de la solution de lugol est : \n a. 4.10-3 mol/L \n b. 2.10-2 mol/L \n c. 2,5.10-1 mol/L \n d. 1,5.10-1 mol/L \n e. 3.10-2 mol/L \n \nIII-",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1. Le glucose \n a. est un sucre non réducteur \n b. réduit la liqueur de Fehling à chaud",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Une molécule d’amylopectine est formée de 1000 résidus de glucose auquels 25 résidus sont \nbranchés. Combien y a -t-il d’extrémités réductrices ? \n a. 0 \n b. 1 \n c. 400 \n d. 999 \n e. 250",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Le saccharose \na. est du αD glucopyranosyl (1 -2) βD fruct ofuranose \nb. est dégradé par une invertase \nc. est réducteur \nd. dévie différemment la lumière polarisée avant et après h ydratation \ne. est insoluble dans l’eau",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. Retrouver le nom de la molécule : \n \n a. αD galactopyranosyl (1 -6) αD glucopyranose (1 -2) βD fructofuranoside \n b. αD galactopyranosyl (1 -3) αD glucopyranosyl (1 -6) βD fructofuranoside \n c. βD galactofuranosyl (1 -6) βD glucopyranosyl (1 -2) βD fructofuranosyl \n d. αD galactopyranosyl (1 -6) αD glucopyranosyl (1 -2) αD fructofuranoside \n e. βD galactopyranosyl (1 -6) βD glucopyranosyl (1 -2) Βd fructopyranoside",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Soient les oses suivants notés a, b et c",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "6. Pour l’alanine, on donne pKCOOH = 2,34 et pKNH 2 = 9,69 \n a. le pHi vaut 6 \n b. le pHi vaut 2,34 \n c. à pHi, on a 100% de \n \n \n d. à pH 2,34, on a 50% de \n \n et 50% de \n \n e. il y a migration électrophorétique de l’alanine quelque soit le pH",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "7. Pour l’acide aspartique, pK αCOOK = 1,99, pKCOOK = 3,9 et pKNH 2 = 9,9 \n a. le pHi vaut 6,9",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "8. Retrouver le nom de l’acide gras ci -dessous parmi les propositions suivantes : \n \na. Acide oléique \nb. Acide linoléique \nc. Acide stéarique \nd. Acide arachidonique \ne. Acide linolénique",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 5
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "9. Choisir le nom de l’acide gras ci -dessous parmi les propositions suivantes : \n \na. Acide butyrique \nb. Acide myristique \nc. Acide Arachidonique \nd. Acide linolénique \ne. Acide palmitique",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 5
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "10. Soit le glycéride de formule suivante :",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 5
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "11. Une phosphatidyl sérine pouvant être constituée à partir de 4 acides gras différents \n a. forme 4 isomères en tout \n b. forme 8 isomères en tout \n c. forme 16 isomères en tout \n d. forme 32 isomères en tout \n e. forme 64 isomères en tout",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 6
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "12. Dans la composition totale des deux brins d’ADN d’un gène, il a été dénombré 250 G et \n200 T. L’ARNm transcrit à partir de ce gène comporte 150 C et 80 A \n a. L’ADN de ce gène contient 250 C et 200 A \n b. Le brin d’ADN transcrit de ce gène contient 1 20 G \n c. Le brin d’ADN transcrit de ce gène contient 150 C \n d. L’ARNm transcrit à partir de ce gène contient 90 G \n e. L’ARNm transcrit à partir de ce gène contient 120 T",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°3.docx.pdf",
+                "fichier": "./pdfs/TD N°3.docx.pdf",
+                "page": 6
+              }
+            }
+          ]
+        },
+        {
+          "name": "TD N°4.docx",
+          "questions": [
+            {
+              "type": "short",
+              "prompt": "1. Parmi ces affirmations concernant le noyau atomique, lesquelles sont correctes ? \na- Le noyau est constitué de nucléons, particules chargés positivement. \nb- Par définition, le numéro atomique est le nombre d’électrons de l’atome. \nc- Le noyau est constitué de protons et d’électrons. \nd- Le nombre de masse est le nombre total de nucléons dans le noyau. \ne- Un noyau de numéro atomique Z et de nombre de masse A possède (A – Z) neutrons. \nf- Le numéro atomique Z est caractéristique de l’élément chimique.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Parmi ces affirmati ons concernant la structure de l’atome, lesquelles sont correctes ? \na- L’atome est constitué d’un noyau neutre et d’électrons chargés négativement. \nb- La masse de l’atome est essentiellement concentrée dans le noyau. \nc- Dans un atome, il y a autant d’électrons que de protons dans le noyau. \nd- Un ion monoatomique s’obtient à partir de l’atome par perte ou gain d’un ou \nplusieurs électrons. \ne- Les réactions chimiques affectent les noyaux des atomes.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Parmi ces affirmations concernant l’actuelle classification périodique des é léments \nchimiques, lesquelles sont correctes ? \na- Les éléments sont classés par masse atomique croissante. \nb- Une ligne de la classification est appelée famille. \nc- Les éléments appartenant à une même ligne possèdent les mêmes propriétés \nélectroniques \nd- Les éléments appartenant à une même colonne ont la même structure électronique \nexterne",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. Parmi les affirmations suivantes concernant les familles chimiques, lesquelles sont \ncorrectes ? \na- La première colonne de la classification périodique constitue la famille des alcalins \nb- La dernière colonne de la classification périodique constitue la famille des \nhalogènes \nc- Les alcalins donnent facilement des anions monovalents. \nd- Les halogènes donnent facilement des anions monovalents. \ne- Les alcalino -terreux ont deux électrons périphériques \nf- Les halogènes ont 9 électrons périphériques",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Parmi les propositions ci -dessous, laquelle caractérise l’atome 5928Ni ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1. Parmi les affirmations suivantes, lesquelles sont correctes ? 0 \n a. Au sens de Bronsted, un acide est une espèce susceptible de céder un proton. \n b. Au sens de Bronsted, un acide est capable de capter un électron. \n c. À un acide fort, est conjuguée une base faible. \n d. À un acide fort, est conjuguée une base forte. \n e. À une base faible, est conjugué un acide indifférent .",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. On dispose d’une solution d’acide chlorhydrique à 0,10 mol · L– 1. On procède à la dilution \nsuivante : on prélève 5,0 mL de la solution et on la verse dans une fiole de 250 mL. On complète \navec de l’eau distillée jusqu’au trait de jauge. Parmi les affirmations suivantes concernant la \nsolution obtenue, lesquelles sont correctes ? \n a. La solution est basique. \n b. La concentration en ions H3O+ est 2,0 · 10– 3 mol · L– 1. \n c. La concentration en ions H3O+ est 5,0 · 10– 12 mol · L– 1. \n d. La concentration en ions HO– est 4,0 · 10– 12 mol · L– 1. \n e. Le pH de la solution vaut 11,3.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Parmi ces propositions concernant les constantes thermodynamiques associées aux co uples \nacides faible/base faible, laquelle est correcte ? \n a. Plus un acide faible est fort, plus la constante d’acidité Ka associée au couple acide \nfaible/base faible est élevée. \n b. Plus un acide faible est fort, plus le pKa du couple acide faible/base faible est élevé. \n c. Plus une base faible est faible, plus la constante de basicité Kb associée au couple acide \nfaible/base faible est élevée. \n d. Plus le pKa d’un couple est grand plus le Kb est petit. \n e. Pour tous les couples acide faible/base faible, on a pKa + pKb = 7.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. Le pKa du couple CH 3COOH/CH 3COO– vaut 4,8. Soit une solution d’acide acétique dans \nl’eau, pour cette solution, on peut dire que : \n a. L’acide est complètement dissocié en sa base conjuguée. \n b. La dilution fa vorise la dissociation. \n c. Si on dissout 0,10 mol d’acide acétique dans 1,0 L d’eau, à l’équilibre la moitié de l’acide \nest dissocié. \n d. CH3COO– est une base forte. \n e. L’expression du pH pour l’acide acétique est pH = – log C",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. On dispose d’une solution de potasse (KOH) à 0,050 mol·L– 1. On procède à la dilution \nsuivante : on prélève 10,0 mL de la solution et on la verse dans une fiole de 500 mL. On \ncomplète avec de l’eau distillée jusqu’au trait de jauge. Parmi les affirmations suivantes \nconcernant la solution obtenue, l aquelle est correcte ? \n a. La solution est neutre . \n b. La concentration en ions OH– est égale à 1,9 · 10– 3 mol·L– 1. \n c. La concentration en ions H3O+ est égale à 1,0 · 10– 3 mol·L– 1. \n d. On peut appliquer la formule pH = pK e + log C où C est la concentration en potasse dans \nla solution. \n e. Le pH de la solution vaut 12,7. \n \nIII-",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1. Associer correctement les formules linéaires et cycliques suivantes :",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Le glycéraldéhyde \na- Possède 2 carbones asymétriques \nb- Sous sa forme D en représentation de Fisher, possède un OH de son carbone \nasymétrique à gauche \nc- Sous sa forme D est lévogyre \nd- Sous sa forme L est dextrogyre \ne- Sous sa forme D donne par addition d’un carbone supplémentaire (Synthèse de \nKiliani -Fischer) du L erythrose ou L thréose",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Retrouver le nom de la molécule suivante : \n \n a. αD galactopyranosyl (1 -6) αD glucopyranose (1 -2) βD fructofuranoside \n b. αD galactopyranosyl (1 -3) αD glucopyranosyl (1 -6) βD fructofuranoside \n c. βD galactofuranosyl (1 -6) βD glucopyranosyl (1 -2) βD fructofuranosyl \n d. αD galactopyranosyl (1 -6) αD glucopyranosyl (1 -2) αD fructofuranoside \n e. βD galactopyranosyl (1 -6) βD glucopyranosyl (1 -2) βD fructopyranoside",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. La représentation cyclique de Haworth du ßD ribofuranose est la suivante :",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Un diholoside \n- ne réduit pas la liqueur de Felhing \n- après méthylation suivie d’hydrolyse, permet d’identifier par chromatographie un 2 -3-4-6 \ntétraméthylglucose et un 1 -3-4-6 tétraméthylfructose \n- est hydrolysé par une β fructosidase et une α glucosidase. \nCe diholoside est le : \n a- maltose \n b- saccharose \n c- lactose \n d- cellobiose \n e- trehalose",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 5
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "6. Soient les acides gras saturés suivants: \n(1) Acide butyrique \n(2) Acide myristique \n(3) Acide palmitique \n(4) Acide stéarique \n(5) Acide lignocérique \nRetrouver le nombre de carbones correspondants pour chacun d’eux : \n(1) en C14 \n(2) en C24 \n(3) en C18 \n(4) en C4 \n(5) en C16",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 5
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "7. Les acides gras \na- possèdent une function acide \nb- sont tous saturés \nc- sont tous insaturés",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 5
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "8. Concernant la classification des acides aminés \na- La glycine est ramifiée \nb- L’acide glutamique est aromatique \nc- La cystéine comporte du soufre \nd- L’acide aspartique porte une fonction acide \ne- La sérine porte une fonction alcool",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 6
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "9. Les peptides \na- Résultent de l’union d’acides aminés liés entre eux par une liaison osidique \nb- Résultent de l’union d’acides aminés liés entre eux par la liaison peptidique \nc- Peuvent comporter 200 acides aminés \nd- Peuvent comporter 2 acides aminés \ne- Présentent 2 extrémités dites N terminale",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 6
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "10. Soit le tétrapeptide suivant : \n \n \na- Il s’agit du Phénylalanyl -Cystéinyl -Leucyl -Lysine \nb- Il s’agit du Lysyl -Leucyl -Cystéinyl -Phénylalanin e \nc- En assemblant les acides aminés précédents sans répétition, on peut faire 8 peptides \ndifférents \nd- En assemblant les acides aminés précédents sans répétition, on peut faire 12 peptides \ndifférents \ne- En assemblant les acides aminés précédents avec répétition, on peut faire 24 peptides \ndifférents",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°4.docx.pdf",
+                "fichier": "./pdfs/TD N°4.docx.pdf",
+                "page": 6
+              }
+            }
+          ]
+        },
+        {
+          "name": "TD N°5.docx",
+          "questions": [
+            {
+              "type": "short",
+              "prompt": "1. Donner la composition de chaque isotope.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Combien y a -t-il d’atomes dans une masse de 2g de l’isotope 11B ? On donne : N A= \n6,02.1023 mole-1",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Calculer la masse molaire moyenne M du bore naturel 5B.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. Soient les éléments chimiques suivants : B (Z = 5) ; F (Z = 9) ; P (Z = 15) ; Cr (Z =",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "24) ; Br (Z = 35) \na- Ecrire la configuration électronique de ces éléments à l’état fondamental en \nprécisant le nombre d’électrons de valence. \nb- Parmi ces éléments quels sont ceux qui ont les mêmes propriétés chimiques ? \nJustifier votre réponse.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. On considère les molécules sui vantes : BF 3 et PB r3 \na- Donner la représentation de Lewis de ces molécules \nb- Donner la géométrie de ces molécules \n \nII",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1. On dissout 10-2 moles de chlorure d’ammonium (NH 4Cl) dans un litre d’eau. On obtient \nla solution A. \na- Ecrire la réaction de dissociation de NH 4Cl. \nb- Quelle est la nature de cette solution ? Justifier votre réponse. \nc- Calculer le pH de la solution.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Soit une solution aqueuse B contenant 10-2 mol/L d’ammoniac (NH 3). \na- Ecrire la réaction en solution. \nb- Calculer le pH correspondant.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. On mélange V 1 = 40 mL de l a solution A et V 2 = 60 mL de la solution B, on obtient la \nsolution C. \na- Calculer la concentration de NH 4+ et de NH 3 dans la solution C. \nb- Ecrire la réaction chimique qui a lieu. \nc- Calculer le pH de la solution C. \n Données : pK A (NH 4+/NH 3) = 9,2 ; T = 25°C",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1. Soient les glucides suivants : \nD-glucose, L -glucose, D -glucosamine, D -galactose, L -mannose et D -fructose \nOn demande à leur propos : \na- le nom de ceux qui sont épimères \nb- le nom de ceux qui sont isomères \nc- le nom de celui (ceux) qui possède (ent) un pouvoir réducteur",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Soit le triholoside ci -contre : \n \na- Identifier les oses constitutifs. \nb- Ce triholoside présente -t-il un pouvoir réducteur ? Justifier votre réponse \nc- Quelles sont les enzymes (osidases) qui peuvent hydroly ser ce triholoside ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Soient les acides gras suivants : C16 : 0 ; C16 : 1 (ω7) ; C18 : 0 ; C18 : 1 (ω9) ; \nC18 : 2 (ω6) et les points de fusion : -5°C, 0°C, 13°C, 63°C, 70°C \na- Donner le nom des différents acides gras. \nb- Apparier acide gras et point de fusion \nc- Quel aspect structural de ces acid es gras peut -être corrélé aux variations des points \nde fusion ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. Donner la structure linéaire des acides gras suivants : palmitique, stéarique, oléique, \nlinoléique, arachidonique. \na- Nos cellules peuvent -elles les synthétiser ? \nb- Qu’est -ce qui différencie l’acide oléique de l’acide linoléique ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. L’étude de la structure d’un peptide a donné les résultats suivants : \n- Composition en acides aminés : Ala, Arg, Cys, Lys, Ser. \n- L’hydrolyse par la tyrosine donne un dipeptide et un tripeptide. \n- L’hydrolyse acide ménagée donne un tripeptide composé de : Ala, Arg et Cys. \n- L’action du dinitrofluorobenzène (DNFB) sur le tripeptide précédent donne un \ndinitrophényl -Alanine (DNP -Ala). \nParmi les ré ponses suivantes, choisir la ( les) séquences(s) compatible(s) avec les \ndonnées ci -dessous : \na- Lys-Ala-Arg-Cys-Ser \nb- Ala-Arg-Cys-Ser-Lys \nc- Ala-Arg-Cys-Lys-Ser \nd- Ser-Ala-Arg-Cys-Lys \ne- Ser-Lys-Ala-Arg-Cys \nf- Ala-Arg-Ser-Cys-Lys",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°5.docx.pdf",
+                "fichier": "./pdfs/TD N°5.docx.pdf",
+                "page": 2
+              }
+            }
+          ]
+        },
+        {
+          "name": "TD N°6.docx",
+          "questions": [
+            {
+              "type": "short",
+              "prompt": "1. Le cuivre naturel est formé de deux isotopes 63Cu et 65Cu. \nSachant que P(63Cu) = 69,15%, m(63Cu) = 62,9295 u.m.a, P(65Cu) = 30,85% et m(65Cu) \n= 64,9277 u.m.a, la masse moyenne du cuivre est égale à : \na- m(Cu) = 63,5459 u.m.a \nb- m(Cu) = 64,3112 u.m.a \nc- Les deux propositions a et b sont fausses.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. L’isotope de cuivre le plus abondant est formé de : \na- 29 protons, 36 neutrons et 29 électrons. \nb- 29 protons, 63 nucléons et 29 neutrons. \nc- Les deux propositions a et b sont fausses.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Un échantillon de cuivre a une masse m = 0,5Kg. On donne M(Cu) = 63,54 g/mol et N A \n= 6,023.1023. \nDans cet échantillon le nombre d’atomes de cuivre est égal à : \na- 47,39.1020 \nb- 47,39.1023 \nc- Les deux propositions a et b sont fausses",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. Dans le tableau périodique Cu est situé : \na- Au groupe II 8. \nb- A la quatrième période. \nc- Au bloc f.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Le cation Cu+ possède dans sa couche de valence : \na- Un seul électron célibataire. \nb- Deux électrons célibataires. \nc- Les deux propositions a et b sont fausses. \nII- Soit (S) la solubilité de Ag 2CO 3 (S) dans l’eau à 25°C :",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1. La réaction de dissolution de AgCO 3 (S) s’écrit : \na- Ag2CO 3 (S) Ag2+ + CO 3- \nb- Ag2CO 3 (S) 2Ag+ + CO 32- \nc- Ag2CO 3 (S) 2Ag+ + CO 3-",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Le produit de solubilité de Ag2CO 3 est : \na- Kps = S2 \nb- Kps = 4S2",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Le degré d’oxydation du chlore dans la molécule Cl 2O est : \na- 0 \nb- 1 \nc- 2",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. Le degré d’oxydation du Chrome (Cr) dans la molécule Cr 2O3 est : \na- 1 \nb- 2 \nc- 3",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Une solution tampon est une solution tel que : \na- Le pH est voisin de zéro. \nb- Le pH est maximal. \nc- Le pH ne varie pas et reste constant.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1. Soit le diholoside : \n \na- Il n’a pas de pouvoir réducteur. \nb- Il contient deux résidus de D -glucopyranose. \nc- La liaison unissant les molécules d’oses est une liaison osidique. \nd- Ce diholoside est abondant dans un lait. \ne- Il est hydrolysable par une maltase.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Le Saccharose \na- Est un disaccharide constitué de deux molécules de galactose. \nb- Est constitué de glucose et de fructose unis en 1 -4. \nc- C’est un sucre réducteur. \nd- Est trouvé en abondance da ns certains tissus végétaux \ne- Est le constituant de base de l’amidon.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. CH 3-(CH 2)4-CH = CH -CH 2-CH = CH -(CH 2)7-COOH ou \n \nCeci est la structure de l’acide: \na- Oléique . \nb- Linoléique. \nc- Stéarique. \nd- Arachidonique \ne- Linolénique.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. Est-il vrai que les triglycérides \na- sont les plus hydrophiles parmi les lipides en raison de leurs trois acides gras ? \nb- sont des molécules électriquement chargées ? \nc- constituent les graisses et les huiles animales ou végétales ? \nd- ont un point de fusion directement lié aux caractéristiques de leurs acide s gras \nconstitutifs ? \ne- ne sont pas rencontrés dans les structures membranaires ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Soit le peptide suivant : Arg -Leu-Lys-Cys-Asp-Glu \na- L’acide aminé C terminal est basique. \nb- Ce peptide comporte deux acides aminés basiques. \nc- Ce peptide comporte un seul acide aminé aliphatique. \nd- Un des acides aminés de ce peptide peut -être phosphorylé. \ne- Un des acides aminés de ce peptide porte sur sa chaine latérale un groupement \nméthyle lié à un atome de soufre.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°6.docx.pdf",
+                "fichier": "./pdfs/TD N°6.docx.pdf",
+                "page": 3
+              }
+            }
+          ]
+        },
+        {
+          "name": "TD N°7.docx",
+          "questions": [
+            {
+              "type": "short",
+              "prompt": "1. On propose différentes configurations électroniques pour l’atome de nickel de numéro \natomique Z = 28. Quelle(s) configuration(s) ne respecte(nt) pas le principe de Pauli ? \na- 1s2 2s2 2p6 3s2 3p6 3d10 4s0 \nb- 1s2 2s2 2p6 3s2 3p8 3d6 4s2 \nc- 1s2 2s2 2p6 3s2 3p6 3d8 4s2 \nd- 1s2 2s2 2p6 3s2 3p6 3d6 4s2 4p2",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Quelle configuration donnée en 1. représente l’atome de Nickel dans son état \nfondamental ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Quelle configuration donnée en 1. ne comporte aucun électron célibataire ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. Quelle configuration donnée en 1. est le moins stable ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Déterminer la composition de l’ion 58Ni2+ \na- 30 protons, 28 électrons, 30 neutrons. \nb- 30 protons, 28 électrons, 28 neutrons . \nc- 28 protons, 28 électrons, 30 neutrons . \nd- 28 protons, 26 électrons, 30 neutrons. \nII- \nL’énoncé suivant est commun à la question 1 et 2. \n A l’aide d’une solution S 0 d’acide chlorhydrique de concentration Co = 4.10-2 mol.L-1 , on \n prépare 200 mL de solution S 1 de concentration C 1 = 2.10-3 mol.L-1.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1. Pour préparer la solution S 1 à partir de la solution S 0 il faut mélanger : \na- 100 mL d’eau avec 100 mL de S 0. \nb- 140 mL d’eau avec 60 mL de S 0. \nc- 180 mL d’eau avec 20 mL de S 0. \nd- 190 mL d’eau avec 10 mL de S 0. \ne- 195 mL d’eau avec 5 mL de S 0.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Dans une fiole jaugée de 500 mL, on introduit 5mL de S 1 et on complète jusqu’au trait \nde jauge avec de l’eau distillée. \nLe pH des solutions S 0 et S 1 valent respectivement : \na- pH de la solution ainsi préparée est égal à 1,7 \nb- pH de la solution ainsi préparée est égal à 2,7 \nc- pH de la solution ainsi préparée est égal à 3,4 \nd- pH de la solution ainsi préparée est égal à 4,0",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Laquelle de ces propositions est vraie. \na- L’ammoniaque est une base forte \nb- L’ammoniaque est une base faible \nc- La constance d’acidité de l’ammoniaque est K a = 5,62.10-10 \nd- L’acide conjugué de l’ammoniaque s’écrit AH. \ne- Le pH de cette solution S est pH = 11,1.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. Le coefficient de dissociation (ou d’ionisation de l’ammon iaque est : \na- α = 1,0 \nb- α = 1,33.10-2 \nc- α = 0,9867 \nd- α = 7,5.10-5 \ne- Il manque une donnée",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Le degré d’oxydation de l’azote (N) dans la molécule N 2O5 est : \na- +2,5 \nb- +5 \nc- -5",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1. L’ose suivant : \n \na- Est un aldohexose naturel \nb- Est l’énantiomère du L glucose \nc- Est un épimère du D glucose \nd- Est un constituant du saccharose \ne- Est un constituant du maltose",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Retrouver le nom de la molécule \n \na- αD galactopyranosyl (1 -6) αD glucopyranosyl (1 -2) ßD fructofuranoside . \nb- αD galactopyranosyl (1 -3) αD glucopyranosyl (1 -6) ßD fructofuranoside \nc- ßD galactopyranosyl (1 -6) αD glucopyranosyl (1 -2) ßD fructofuranosyl \nd- αD galactopyranosyl (1 -6) αD glucopyranosyl (1 -2) αD fructofuranoside \ne- ßD galactopyranosyl (1 -6) ßD glucopyranosyl (1 -2) ßD fructopyranoside",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Soient les acides gras saturés suivants: \n(1) acide butyrique a- C14 \n(2) acide myristique b- C24 \n(3) acide palmitique c- C18 \n(4) acide stéarique d- C4 \n(5) acide lignocérique e- C16 \n Faites correspondre le nombre de carbones aux acides gras saturés",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. L’acide arachidonique \na- Est un acide gras monoéthylénique \nb- Est essentiel \nc- Est un précurseur dans la biosynthèse des prostaglandines \nd- Présente une configuration cis pour les doubles liaisons \ne- Possède en tout 20 carbones",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Soit un tétrapeptide soumis successivement à l’action des composés suivants \n- La trypsine qui libère deux dipeptides \n- L’hydroxylamine qui libère deux acides aminés \n- Le bromure de cyanogène qui libère deux acides aminés \na- Ce tétrapeptide comporte au moins un acide aminé aromatique \nb- Ce tétrapeptide comporte au moins un acide aminé basique \nc- Ce tétrapeptide comporte au moins un acide aminé acide \nd- Ce tétrapeptide possède en résidu C terminal un acide aminé aliphatique \ne- Ce tétrapeptide possède en résidu N terminal un acide aminé soufré",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "TD N°7.docx.pdf",
+                "fichier": "./pdfs/TD N°7.docx.pdf",
+                "page": 3
+              }
+            }
+          ]
+        },
+        {
+          "name": "document_16",
+          "questions": [
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 1.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 2.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 3.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 4.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 5.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 5
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 6.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 6
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 7.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 7
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 8.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 8
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 9.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 9
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 10.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 10
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 11.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 11
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 12.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 12
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 13.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 13
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 14.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 14
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 15.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 15
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 16.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 16
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 17.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 17
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 18.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 18
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 19.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 19
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 20.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 20
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 21.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 21
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 22.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 22
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 23.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 23
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "(Page scannée non OCR) — Voir document_16.pdf, page 24.",
+              "answer_text": "",
+              "explain": "Page non extractible automatiquement. Fournir une version OCR/texte pour détailler chaque question et la réponse.",
+              "ref": {
+                "epreuve": "document_16.pdf",
+                "fichier": "./pdfs/document_16.pdf",
+                "page": 24
+              }
+            }
+          ]
+        },
+        {
+          "name": "QCM HEMATOLOGIE ATELIER BOS",
+          "questions": [
+            {
+              "type": "mcq",
+              "prompt": "1- Le sang est uniquement constitué de :",
+              "choices": [
+                "Plasma.",
+                "D'éléments figurés.",
+                "D'anticorps.",
+                "Rien de tout ce qui précède. e) Toutes les réponses sont fausses."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "2- Les éléments essentiels du sang sont produits au niveau de :",
+              "choices": [
+                "L'appareil de Golgi.",
+                "La moelle osseuse.",
+                "Le cytoplasme."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "3- Les globules rouges ont une durée de vie de :",
+              "choices": [
+                "120 jours.",
+                "100 jours.",
+                "1 jour.",
+                "Rien de tout ce qui précède."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "4- La G6PD est l'une des enzymes constitutives des :",
+              "choices": [
+                "Plaquettes sanguines.",
+                "Des GR.",
+                "Des Réticulocytes."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "5- Parmi les enzymes suivant lesquels /Lesquelles ce présente à la surface des GR :",
+              "choices": [
+                "Actine.",
+                "Spectrine.",
+                "Ankyrine.",
+                "Rien de tout ce qui précède."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "6- Les poïkylocytes sont une anomalie de :",
+              "choices": [
+                "Poids des GR.",
+                "D'évolution des GR.",
+                "De forme des GR."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "7- Les plaquettes sanguin es présente : \na) 02 types de granulation.",
+              "choices": [],
+              "answer": 0,
+              "explain": "Extraction automatique des énoncés. Réponse détaillée à renseigner/valider.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "8- La production et la maturation des LT s'effectue au niveau de :",
+              "choices": [
+                "Du rat .",
+                "De la moelle osseuse.",
+                "La moelle osseuse et la rate respectivement.",
+                "Rien de tout ce qui précède."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "9- Quelle/ Quelles est/sont les origines des différentes forme d'Hb observer :",
+              "choices": [
+                "Mutations génétiques.",
+                "Codon stop.",
+                "Aucune des autres réponses."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "10- La dégradation de l'Hb aboutit à l'obtention de/des :",
+              "choices": [
+                "Acides aminés.",
+                "Hème.",
+                "Fer.",
+                "Globin es."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "1- L'hémogramme comprend :",
+              "choices": [
+                "Une analyse partielle des éléments figurés du sang.",
+                "Une analyse totale des éléments figurés du sang.",
+                "Une analyse quantitative des éléments figurés du sang.",
+                "Une analyse qualitative des éléments figurés du sang."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "2- La dilution des GR pour la numération manuelle de ces derniers peut s'effectuer par le liquide de dilution :",
+              "choices": [
+                "Rouge de méthylène.",
+                "Marcano.",
+                "HAYEM."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "3- Une anémie se défini comme étant :",
+              "choices": [
+                "Un taux d'Hb supérieur à la valeur normale .",
+                "Un taux d'H b inférieure à la valeur normale .",
+                "Un taux de d'Hb égal à la valeur normale ."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "4- Parmi les propositions suivantes lesquels peuvent être considéré comme de constante ou indice érythrocytaire :",
+              "choices": [
+                "VCM.",
+                "TCMH.",
+                "CCMH.",
+                "GR."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "5- Le taux d'hématocrite s'exprime en :",
+              "choices": [
+                "Pourcentage.",
+                "ng/L.",
+                "L."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "6- Le bleu de crésyl brillant est utilisé pour la dilution des :",
+              "choices": [
+                "Plaquettes sanguines.",
+                "GR.",
+                "Réticulocytes."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "7- Quelles sont les méthodes utilisables pour le dosage de l'Hb : \na) Méthode One pièce.",
+              "choices": [],
+              "answer": 0,
+              "explain": "Extraction automatique des énoncés. Réponse détaillée à renseigner/valider.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "8- Quelle est la méthode de référence pour le dosage de l'Hb : \na) Méthode Sahli. \nb) Méthode Cyane de méthémoglobine .",
+              "choices": [],
+              "answer": 0,
+              "explain": "Extraction automatique des énoncés. Réponse détaillée à renseigner/valider.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "9- L'étude morphologique des éléments figurés du sang fait partie :",
+              "choices": [
+                "L'analyse quantitative des éléments figurés du sang.",
+                "L'analyse qualitative des éléments figurés du sang.",
+                "Aucune des autres réponses."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "10- La dilution des GB peut s'effectuer grâce au (x) liquide (s) :",
+              "choices": [
+                "Oxalate d' ammonium .",
+                "Piette.",
+                "Lazarus.",
+                "Aucune des autres réponses."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "11- Parmi les propositions suivantes lesquel/ lesquels sont considéré comme cellules de dénombrement :",
+              "choices": [
+                "Cellule de NUEBAWER.",
+                "Cellule de Malassez.",
+                "Cellule de Missérété."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "12- Quelle est le taux de dilution des GB : \na. 1/200 \nb. 1/20 \nc. 1/2",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "13- Parmi les propositions suivantes lesquel/ lesquelles de ces liquides est/ so nt \napproprié pour la dilution des plaquettes sanguines : \na. Oxalate d'armonium. \nb. Oxalate de calcium. \nc. Piette. \nd. Aucun d'entre eux.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "14- Quelle est le taux de dilution des GR : \na. 1/40. \nb. 1/5000.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "15- Pour la détermination manuelle du taux d'hématocrite laquelle (s) de ces méthodes \nest utilisable : \na. Total hématocrite. \nb. Macrohématocrite. \nc. Microhématocrite.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 5
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "16- Quel est le tube de prélèvement idéal pour le recueil d'un échantillon dédier à la \nNFS : \na. Tube citraté. \nb. Tube EDTA. \nc. Tube sec.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 5
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "17- La N FS se défini littéralement comme étant : \na. L'hémogramme. \nb. Nation Force Sécurité. \nc. Numération Formule Sanguine.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 5
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "1- L'hémostase se déroule en :",
+              "choices": [
+                "02 étapes.",
+                "03 étapes.",
+                "Aucune des autres réponses."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 6
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "2- L'hémostase secondaire correspond à : \na) La coagulation. \nb) L'homéostasie.",
+              "choices": [],
+              "answer": 0,
+              "explain": "Extraction automatique des énoncés. Réponse détaillée à renseigner/valider.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 6
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "3- Parmi les propositions suivantes lesquels sont des acteurs de L'hémostase :",
+              "choices": [
+                "Les cellules endothéliales .",
+                "Les protéines plasmatiques.",
+                "Les plaquettes sanguines.",
+                "Aucune des autres réponses."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 6
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "4- L'hémostase primaire ce déroule en :",
+              "choices": [
+                "Temps de Quick.",
+                "Temps de Prothrombine.",
+                "Aucune des autres réponses."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 6
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "5- Le temps de saignement assure l'exploration de :",
+              "choices": [
+                "La coagulation.",
+                "L'hémostase primaire.",
+                "La fibrinolyse."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 6
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "6- L'agrégation plaquettaire correspond à :",
+              "choices": [
+                "L'accolement des plaquettes les unes aux autres.",
+                "Le détachement des plaquettes.",
+                "La fusion plaquettaire."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 6
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "7- Le thrombus rouge est encore appelé :",
+              "choices": [
+                "Thrombus blanc.",
+                "Thrombus papillonus.",
+                "Réseau de fibrine soluble.",
+                "Aucune des autres réponses."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 6
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "8- La plasmine existe sous forme de :",
+              "choices": [
+                "Plasma inactif dans le foie.",
+                "Plasma actif dans le foie.",
+                "Plasminogène actif dans le foie.",
+                "Plasminogène inactif dans le foie."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 7
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "9- Les D -dimères reflètent :",
+              "choices": [
+                "La formation de Thrombus blanc.",
+                "La formation de boule verte dans le sang.",
+                "La formation de caillot sanguin."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 7
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "10- PDF se défini littéralement comme étant :",
+              "choices": [
+                "Un fichier d'ordinateur.",
+                "Un document Word.",
+                "Produit de Dégradation de la fibrine."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 7
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "11- Le test de Von kulla est utilisé dans :",
+              "choices": [
+                "L'exploration de la coagulation.",
+                "L'exploration du ca nal vasculaire.",
+                "Aucune des deux réponses."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 7
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "12- Quel est le tube adapté pour l'exploration de L'hémostase en laboratoire :",
+              "choices": [
+                "Tube fluoré.",
+                "Tube citraté.",
+                "Tube EDTA.",
+                "Tube bleu"
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 7
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "13- L'hémophilie A est un trouble de :",
+              "choices": [
+                "L'hémostase primaire.",
+                "De la coagulation.",
+                "De la fibrinolyse. Bonne chance « Avec l’atelier B.O.S l’objectif sera toujours atteint. » Ir.Msc Terence EPAMINONDAS."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "fichier": "./pdfs/QCM HEMATOLOGIE ATELIER BOS.pdf",
+                "page": 7
+              }
+            }
+          ]
+        },
+        {
+          "name": "QCM BIOCHIMIE CLINIQUE BOS",
+          "questions": [
+            {
+              "type": "mcq",
+              "prompt": "1- Le pancréas est :",
+              "choices": [
+                "L’organe le plus volumineux de l'organisme.",
+                "L’organe producteur de l'insuline.",
+                "Responsable du diabète sucré."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "2- Le diabète est :",
+              "choices": [
+                "Due à une hémoglobinopathie.",
+                "Est maladie héréditaire.",
+                "Est causé par un taux élevé de glucide dans le sang."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "3- L'insuline est produit :",
+              "choices": [
+                "Au niveau de la moelle osseuse.",
+                "Par les cellules alpha des îlots de Langerhans.",
+                "Par les cellules bêt a des îlots de Langerhans."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "4- Les peptides C :",
+              "choices": [
+                "Permet aussi d'explorer le diabète.",
+                "Sont l'une des causes du diabète.",
+                "Relient les chaines inactives A et B du pro -insuline."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "5- Les paramètres d'exploration du diabète dans le sang sont entres autres :",
+              "choices": [
+                "Calcém ie, magnésiémie, glycémie.",
+                "CRP, VS, Insuline, peptide C, hémoglobine glyqué.",
+                "Glycémie, peptide C, Insuline, hémoglobine glyqué."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "6- La glycémie",
+              "choices": [
+                "Est élevé spontanément en cas deux diabète.",
+                "Est élevé en cas d'une présence anormal de glucose dans le sang.",
+                "Est le taux élevé de fructose dans le sang."
+              ],
+              "answer": 0,
+              "explain": "Extraction auto. Merci de valider la bonne réponse et l'explication ci-dessous.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "7- La valeur normale de la glycémie à jeun chez un adulte \na. Est comprise entre 0,70 et 1,10 mg/ L.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "8- On parle d'intolérance au glucose lorsque \na. Le taux de glucose à jeun est compris entre 1,10 et 1,26 mg/L. \nb. La glycémie à jeun est entre 1,40 et 2 g/L. \nc. Après l'hyperglycémie provoquée par voie orale, la glycémie est entre 1,40 et 2 \ng/L.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "9- Le DNID correspond \na. Au diagnostic naturel indiqué e n cas de diabète. \nb. Au diabète non insulino -dépendant. \nc. Au diabète non insulino -dépendant de type 2.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "10- La complication chronique du diabète implique : \na. Un coma hyperosmolaire. \nb. Une neuropathie diabétique. \nc. Une hyperglycémie. \n \n \n \n \n \n \n \n \n \n \nQCM SUR L'EXPLORATION DU DIABETE",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1- Le rein est : \na. L’organe le plus volumineux de l'organisme. \nb. L’organe producteur de l'insuline. \nc. Responsable du diabète sucré. \nd. Responsable de l'épuration du sang.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2- Le néphron est : \na. Une cellule rigide. \nb. L’unité structurale du rein. \nc. L’unité fonctionnel du rein. \nd. Toutes les réponses sont fausses.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3- L'urine provient : \na. De l'eau que nous buvons. \nb. Du foie. \nc. Du sang. \nd. Des cellules.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4- Une atteinte rénale précoce est observée par : \na. Une hématurie. \nb. Une microglobinurie. \nc. Une microalbuminurie. \nd. Toutes les réponses sont vraies.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5- Les tubules sont composés de \na. 3 parties. \nb. 4 parties. \nc. 5 parties. \nd. 6 parties.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "6- La créatinine : \na. Est sécrète par le rein. \nb. Peut être élevé en cas d’anomalies rénales. \nc. Est un déchet métabolique. \nd. Est dosé par la méthode en point final de Jaffey.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "7- L'urée : \na. Est dosée en cas de malaises digestifs. \nb. Est le meilleur marqueur d'exploration du rein. \nc. Est sécrété et réabsorbé par les tubules. \nd. Rien de tout ça.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "8- La clairance de la créatinine : \na. S’exprime en mg/ min. \nb. Est le volume de sang épuré de la créatinine par unité de temps. \nc. Est calculé en fonction de l'âge du sexe et du poids. \nd. Rien de tout ça.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "9- La méthode Jaffey : \na. Est en point final. \nb. Est colorimétriqu e. \nc. Est cinétique. \nd. Rien de tout ça.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 4
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "10- Pour le dosage de la créatinine on procède par un prélèvement : \na. Capillaire sur tube sec. \nb. Veineux sur tube à hémolyse. \nc. Veineux sur tube sec avec gel. \nd. Rien de tout ça. \n \n \nGood Luck \n« Avec l’atelier B.O.S l’objectif s era toujours atteint. » \nIr.Msc Ricardo GANDONOU.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "fichier": "./pdfs/QCM BIOCHIMIE CLINIQUE BOS.pdf",
+                "page": 4
+              }
+            }
+          ]
+        },
+        {
+          "name": "EXAMEN BLANC GIGQ 2023",
+          "questions": [
+            {
+              "type": "short",
+              "prompt": "1. Définissez boissons et lister les différents types de boissons qu’on peut \nobtenir avec les mangues.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2. Construisez le diagramme technologique de réalisation du nectar de \nmangues et appliquez -y le système HACCP tout en précisant les points \ncritiques de contrôle.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3. Parmi les déchets issus de la production du nectar de mangues, certains sont \nréutilisables en d’autres produits : citez et différenciez ces produits.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4. On peut appliquer divers traitements au nectar : \na. Définissez le terme méthod e de conservation \nb. Différencie z celles qu’on peut appliquer au nectar",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5. Quelles sont les emballages dans lesquels le nectar peut être conditionner ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "6. Suite à un traitement thermique insuffisant, un mauvais conditionnement \nou des matières premières contaminées, des altérations peuvent être \nobservées, listez les types d’altérations possibles.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "7. Concernant la quali té microbiologique du nectar , diverses interrogations \nsont à lever : \na. Quelles sont les différents niveaux de contamination possible du \nproduit ? \nb. Parmi les microorganismes suivants : Staphylococcus aureus, \nAspergillus flavius , Salmonella & Shigella, Escherichia coli, Listeria \nmonocytenges, coliformes, Candida albicans et les levures & \nmoisissures ; lesquels sont susceptibles de se développer dans le nectar ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "8. Quelle s sont paramètres physico -chimiques réalisables sur le nectar ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "9. Définissez degré Brix et présentez son protocole .",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "10. C’est quoi l’acidité titrable ? Quel est son principe ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "11. Donnez la différence entre intoxication et intoxination.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "12. Définissez Salmonellose, listez quelques symptômes puis des méthodes \nrapides de détection du microorganisme.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "13. En fonction des différents groupes d’aliments, classez les aliments \nsuivants : crème fraiche, saumon, tomate, taro, épinard, niébé, fruit à pain, \nlait d’amande, huile de tournesol, margarine, carpe, ailes de dinde, pommes \nde terre, laitue, riz, carotte.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "14. C’est quoi une norme et quelles sont les différents acteurs qui participent à \nl’élaboration d’une norme ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "15. Quelle est la norme qui définit les exige nces relatives à un système de \nmanagement de la sécurité des denrées alimentaires ? Donnez une de ces \nréférences.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "16. Donnez la différence entre : accréditation & agrément ; processus & \nprocédures puis entre audit qualité & inspection.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "17. Comment peut -on reconna itre la qualité (indications) ? Et quels sont les \noutils de la qualité ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "18. C’est quoi la démarche qualité et quelles sont les normes de la famille ISO \n9000 ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "19. Citez les enjeux de la certification pour les consommateurs.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "20. Vrai ou Faux ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "21. Identifiez les milieux de cultures des figures 1 à 4",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "22. Pour les figures 1 & 2, réalisez le c omptage des colonies et calculez le \nnombre N de microorganismes p résents. \nNB : \nFigure 1 : Dilution au 100ième pour un échantillon solide . \nFigure 2 : Dilution au 10 00ième pour un échantillon liquide. \n \n \n \n \n \nGood Luck !",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "MODULE X : EXAMEN BLANC \nATELIER DE RENFORCEMENT DE CAPACITES POUR LES EXAMENS NATIONAUX | 4 \n \n \n \n \n \n \n \n \n \n \nFigure 1 Figure 2 \n \n \n \n \n \n \n \n \n \n \n \n \nFigure 3 Figure 4",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GIGQ 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GIGQ 2023.pdf",
+                "page": 4
+              }
+            }
+          ]
+        },
+        {
+          "name": "EXAMEN BLANC GCB 2023",
+          "questions": [
+            {
+              "type": "short",
+              "prompt": "2- Que vous suggèrent ces résultats ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "3- Citez les différents tests de confirmation et de surveillance du diabète \n4-a) Citez les grandes fonctions métaboliques du foie \n b) Citer 03 marqueurs hépatiques enzymatiques et 03 marqueurs hépatiq ues \nnon enzymatiques \n \nB. PARASITOLOGIE \nVous recevez au laboratoire deux échantillons de selles et une patiente \nprésentant un tableau clinique donné. \nØ Patient X : Les selles sont faites de diarrhées afécales glairo -sanguinolentes.",
+              "choices": [],
+              "answer": 0,
+              "explain": "Extraction automatique des énoncés. Réponse détaillée à renseigner/valider.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1- Que pourrait -on soupçonner comme parasitose en priorité ? Quel est le \nparasite en cause ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2- Décrire son cycle évolutif.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3- Décrire les caractéristiques spécifiques du parasite à l’observation \nmicroscopique.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4- Proposer une méthode de diagnostic biologique du parasite en cause.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5- Proposer un traitement ainsi qu’une stratégie de prévention pour cette \nparasitose. \nØ Patient Y : L’observation microscopique des selles montre les œufs qui \nvous font penser à un cas d’ascaridiose.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "6- Décrire une technique coprologique cohérente qui a permis d’aboutir à \ncette observation.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "7- Quelles sont les caractéristiques schémas à l’appui des œufs d’ascaris ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "8- À quels genre et espèce appartient ce parasite ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "9- Quels sont les mode s de contamination possibles ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "10- Rappeler son cycle évolutif. \nØ Patient Z : Ifèm une petite fille de 9 ans dont le tableau clinique est marqué \npar l’apparition d’une fièvre brutale à 40°C, accompagnée de frissons et de \ntroubles digestifs est amenée dans le centre de santé de la commune ou vous \nexercez.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "11- Quelle parasitose est soupçonnée en priorité ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "12- Quel est l’agent responsable de cette parasitose ? À quel germe \nappartient -il ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "13- Décrire son cycle évolutif. \n \nC. HEMATOLOGIE \nLa NFS de madame ALLIANZA Tyna 25ans enceinte de 02 mois donne les \nrésultats suivants : \nNR : 3,19 T/L NGB : 6,5 G/L \nHb : 9,4 Neutrophiles : 60 \nHte : 31 Éosinophiles : 03 \nVGM : 97 Basophiles : 00",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1- Quel est le tube approprié pour la réalisation de ce paramètre ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2- Interprétez et commentez l’hémogramme. \nCelle -ci vous revient avec un bon pour le bilan suivant : TS, TCK, et TP",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3- Définissez TS, TCK et TP. À quoi sert chacun de ces paramètres ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4- Décrivez le principe de réalisation du TS par utilisation de la \nméthode Duke. \n \n \n \nGood Luck !",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023.pdf",
+                "page": 3
+              }
+            }
+          ]
+        },
+        {
+          "name": "EXAMEN BLANC GCB 2023 2",
+          "questions": [
+            {
+              "type": "short",
+              "prompt": "2- Que vous suggèrent ces résultats ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "mcq",
+              "prompt": "3- Citez les différents tests de confirmation et de surveillance du diabète \n4-a) Citez les grandes fonctions métaboliques du foie \n b) Citer 03 marqueurs hépatiques enzymatiques et 03 marqueurs hépatiq ues \nnon enzymatiques \n \nB. PARASITOLOGIE \nVous recevez au laboratoire deux échantillons de selles et une patiente \nprésentant un tableau clinique donné. \nØ Patient X : Les selles sont faites de diarrhées afécales glairo -sanguinolentes.",
+              "choices": [],
+              "answer": 0,
+              "explain": "Extraction automatique des énoncés. Réponse détaillée à renseigner/valider.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1- Que pourrait -on soupçonner comme parasitose en priorité ? Quel est le \nparasite en cause ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2- Décrire son cycle évolutif.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 1
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3- Décrire les caractéristiques spécifiques du parasite à l’observation \nmicroscopique.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4- Proposer une méthode de diagnostic biologique du parasite en cause.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "5- Proposer un traitement ainsi qu’une stratégie de prévention pour cette \nparasitose. \nØ Patient Y : L’observation microscopique des selles montre les œufs qui \nvous font penser à un cas d’ascaridiose.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "6- Décrire une technique coprologique cohérente qui a permis d’aboutir à \ncette observation.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "7- Quelles sont les caractéristiques schémas à l’appui des œufs d’ascaris ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "8- À quels genre et espèce appartient ce parasite ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "9- Quels sont les mode s de contamination possibles ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "10- Rappeler son cycle évolutif. \nØ Patient Z : Ifèm une petite fille de 9 ans dont le tableau clinique est marqué \npar l’apparition d’une fièvre brutale à 40°C, accompagnée de frissons et de \ntroubles digestifs est amenée dans le centre de santé de la commune ou vous \nexercez.",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "11- Quelle parasitose est soupçonnée en priorité ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "12- Quel est l’agent responsable de cette parasitose ? À quel germe \nappartient -il ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "13- Décrire son cycle évolutif. \n \nC. HEMATOLOGIE \nLa NFS de madame ALLIANZA Tyna 25ans enceinte de 02 mois donne les \nrésultats suivants : \nNR : 3,19 T/L NGB : 6,5 G/L \nHb : 9,4 Neutrophiles : 60 \nHte : 31 Éosinophiles : 03 \nVGM : 97 Basophiles : 00",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 2
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "1- Quel est le tube approprié pour la réalisation de ce paramètre ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "2- Interprétez et commentez l’hémogramme. \nCelle -ci vous revient avec un bon pour le bilan suivant : TS, TCK, et TP",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "3- Définissez TS, TCK et TP. À quoi sert chacun de ces paramètres ?",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 3
+              }
+            },
+            {
+              "type": "short",
+              "prompt": "4- Décrivez le principe de réalisation du TS par utilisation de la \nméthode Duke. \n \n \n \nGood Luck !",
+              "answer_text": "",
+              "explain": "Extraction automatique. Renseigner la réponse détaillée ci-dessous si besoin.",
+              "ref": {
+                "epreuve": "EXAMEN BLANC GCB 2023 2.pdf",
+                "fichier": "./pdfs/EXAMEN BLANC GCB 2023 2.pdf",
+                "page": 3
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
